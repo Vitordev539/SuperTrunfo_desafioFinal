@@ -1,1 +1,2 @@
 # SuperTrunfo_desafioFinal
+Nesta parte do jogo temos os seguintes atributos das cartas 1 e 2: população, pib, área km, pib per capita, densidade populacional e número de pontos turísticos, primeiro insira os valores de cada atributo e após você terá um menu interativo para selecionar qual atributo deseja comparar, você poderá escolher dois atributos para serem comparados, lembrando que não poderá escolher o mesmo atributo duas vezes, após isso compararemos a soma de todos os atributos das cartas 1 e 2 sendo a carta com valor mais alto a vencedora.
